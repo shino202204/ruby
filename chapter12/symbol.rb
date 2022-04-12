@@ -11,7 +11,7 @@ dog3 =:犬
 dog4 =:犬
 
 #シンボルは一意性がある
-# シンボルはしょりが高速
+# シンボルは処理が高速
 puts dog1.object_id
 puts dog2.object_id
 puts dog3.object_id
